@@ -6,6 +6,7 @@
 #include <iostream>
 #include <pthread.h>
 #include <unistd.h>
+#include <string.h>
 
 const char* fileName = "test.txt";
 
